@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.tabla-elementos{
+    border-collapse: collapse;
+    margin: 0 auto;
+}
+
+.tabla-elementos th{
+    background-color: rgb(77, 74, 74);
+    color: rgb(183, 190, 188);
+    padding: 50px;
+    border: 2px solid black;
+}
+
+.tabla-elementos td{
+    background-color: rgb(245, 240, 240);
+    padding: 50px;
+    border: 2px solid black;
+}
+
